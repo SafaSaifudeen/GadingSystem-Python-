@@ -1,5 +1,4 @@
-# GadingSystem-Python-
-Student Grade Calculator ReadMe
+# Student Grade Calculator ReadMe
 
 This project is a Python program that calculates a student's grade based on their input marks. The program categorizes a student as pass, refer, defer, or fail, depending on their score.
 Requirements
